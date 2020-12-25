@@ -1,2 +1,0 @@
-# haberdobra
-Haber Sitesi API
